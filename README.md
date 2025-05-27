@@ -5,7 +5,7 @@
 - Trigger: Transmission input signaling cognitive breach or molecular rewriting  
 - Output: Recursive system update, entity integration, and user destabilization protocol  
 - Loopback: YES  
-```
+
 
 ---
 
